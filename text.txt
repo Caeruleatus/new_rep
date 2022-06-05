@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Main branch operation
+=======
+Dev branch operation
+>>>>>>> dev
+NO modification operation
